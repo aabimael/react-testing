@@ -1,3 +1,20 @@
+Dejo la documentación original por si acaso :P
+
+Para los iconos del clima:
+
+npm install --save react-weathericons
+
+o para agregarlo como dependencia
+
+yarn add react-weathericons
+
+Para levantar el ambiente:
+
+yarn start
+
+
+yarn add prop-types
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
